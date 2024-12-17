@@ -1,0 +1,6 @@
+<config>
+    <graphviz_path>C:\Program Files\Graphviz\bin\dot.exe</graphviz_path>
+    <repo_path>C:\Users\Noxen\KY\DZ2\HM2KU-main\my_repo</repo_path>
+    <output_path>C:\Users\Noxen\KY\DZ2\HM2KU-main\output\output.png</output_path>
+    <since_date>2023-11-30</since_date>
+</config>
